@@ -7,8 +7,11 @@ The point is to get the highest score. You get 1 point for every enemy you destr
 The player starts with 100 health and once you get to 0 the game ends.
 
 Enemies spawn in waves each wave has one more enemy than the previous wave. Though currently there are only 2 waves, the initial wave and the boss wave.
+![gameplaySS1](https://github.com/Gadrean/ShootyShootySpinSpin-2-TheRevolution/assets/40734658/0a7bd4be-93e1-40d4-9bcc-c0d7523df707)
+![gameplaySS2](https://github.com/Gadrean/ShootyShootySpinSpin-2-TheRevolution/assets/40734658/4eefb333-c5f8-433f-b810-f7269a2651db)
 
 There is a boss enemy in the final wave. However, it was never fully implemented. Currently it just follows the player around and changes size if it touches the player.
+![bossSS](https://github.com/Gadrean/ShootyShootySpinSpin-2-TheRevolution/assets/40734658/3ad1b355-2249-4941-bda7-79ea54b97ac0)
 
 ## Enemies
 
